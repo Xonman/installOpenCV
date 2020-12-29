@@ -5,7 +5,7 @@
 # -------------------------------------------------------------------- |
 #                       SCRIPT OPTIONS                                 |
 # ---------------------------------------------------------------------|
-OPENCV_VERSION='4.2.0'       # Version to be installed
+OPENCV_VERSION=${1:-4.5.1} # Version to be installed
 OPENCV_CONTRIB='NO'          # Install OpenCV's extra modules (YES/NO)
 # -------------------------------------------------------------------- |
 
