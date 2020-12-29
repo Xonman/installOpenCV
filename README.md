@@ -16,4 +16,5 @@ Comprehensive installer for OpenCV on Raspbian (raspberry Pi).  Does NOT install
 ```./installOpenCV.sh```
 
 _Or specify an OpenCV version_
+
 ```./installOpenCV.sh 4.5.2```
